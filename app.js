@@ -1,8 +1,14 @@
-console.log('hey this is my first piece of js code!!')
+console.log('Hey this is my first piece of JS code!!! YAY')
 
-console.log(1286776868)
-console.log({ name: "Sumit" })
+console.log(12490239043902)
+
+console.log({ name: "Yutika" })
+
+console.log(true)
+console.log(false)
+
+console.log(false, 234243, 'string', { name: "Alfred" })
 
 console.warn("This is a warning")
 
-console.error("This is an error")
+console.error("this is an error")
